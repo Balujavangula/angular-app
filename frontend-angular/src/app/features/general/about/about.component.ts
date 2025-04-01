@@ -51,16 +51,16 @@ export class AboutComponent implements OnInit {
     this.quote = new Quote();
     this.dependencies = {
       frontend: [
-        { name: 'Angular 17.2.4' },
-        { name: 'Angular CLI 17.2.3' },
-        { name: 'Angular SSR 17.2.3' },
+        { name: 'Angular 19.2.4' },
+        { name: 'Angular CLI 19.2.5' },
+        { name: 'Angular SSR 19.2.5' },
         { name: 'Bootstrap 5.3.3' },
-        { name: 'Font Awesome 6.5.1' },
+        { name: 'Font Awesome 6.7.2' },
       ],
       backend: [
-        { name: 'Node.js 18.17.1' },
-        { name: 'Express 4.18.2' },
-        { name: 'pg-promise 11.5.4' },
+        { name: 'Node.js 22.13.1' },
+        { name: 'Express 4.21.2' },
+        { name: 'pg-promise 11.12.1' },
       ]
     };
 
@@ -68,47 +68,47 @@ export class AboutComponent implements OnInit {
       frontend: [
         {
           name: 'Angular CLI',
-          englishTutorial: 'https://www.ganatan.com/tutorials/getting-started-with-angular',
+          englishTutorial: 'https://www.ganatan.com/en/tutorials/getting-started-with-angular',
           frenchTutorial: 'https://www.ganatan.com/tutorials/demarrer-avec-angular',
         },
         {
           name: 'Routing',
-          englishTutorial: 'https://www.ganatan.com/tutorials/routing-with-angular',
+          englishTutorial: 'https://www.ganatan.com/en/tutorials/routing-with-angular',
           frenchTutorial: 'https://www.ganatan.com/tutorials/routing-avec-angular',
         },
         {
           name: 'Lazy loading',
-          englishTutorial: 'https://www.ganatan.com/tutorials/lazy-loading-with-angular',
+          englishTutorial: 'https://www.ganatan.com/en/tutorials/lazy-loading-with-angular',
           frenchTutorial: 'https://www.ganatan.com/tutorials/lazy-loading-avec-angular',
         },
         {
           name: 'Bootstrap',
-          englishTutorial: 'https://www.ganatan.com/tutorials/bootstrap-with-angular',
+          englishTutorial: 'https://www.ganatan.com/en/tutorials/bootstrap-with-angular',
           frenchTutorial: 'https://www.ganatan.com/tutorials/bootstrap-avec-angular',
         },
         {
           name: 'Server side Rendering',
-          englishTutorial: 'https://www.ganatan.com/tutorials/server-side-rendering-with-angular-universal',
+          englishTutorial: 'https://www.ganatan.com/en/tutorials/server-side-rendering-with-angular-universal',
           frenchTutorial: 'https://www.ganatan.com/tutorials/server-side-rendering-avec-angular-universal',
         },
         {
           name: 'HTTPClient',
-          englishTutorial: 'https://www.ganatan.com/tutorials/httpclient-with-angular',
+          englishTutorial: 'https://www.ganatan.com/en/tutorials/httpclient-with-angular',
           frenchTutorial: 'https://www.ganatan.com/tutorials/httpclient-avec-angular',
         },
         {
           name: 'Transfer State',
-          englishTutorial: 'https://www.ganatan.com/tutorials/transfer-state-with-angular',
+          englishTutorial: 'https://www.ganatan.com/en/tutorials/transfer-state-with-angular',
           frenchTutorial: 'https://www.ganatan.com/tutorials/transfer-state-avec-angular',
         },
         {
           name: 'Progressive Web App',
-          englishTutorial: 'https://www.ganatan.com/tutorials/progressive-web-app-with-angular',
+          englishTutorial: 'https://www.ganatan.com/en/tutorials/progressive-web-app-with-angular',
           frenchTutorial: 'https://www.ganatan.com/tutorials/progressive-web-app-avec-angular',
         },
         {
           name: 'Search Engine optimization',
-          englishTutorial: 'https://www.ganatan.com/tutorials/search-engine-optimization-with-angular',
+          englishTutorial: 'https://www.ganatan.com/en/tutorials/search-engine-optimization-with-angular',
           frenchTutorial: 'https://www.ganatan.com/tutorials/search-engine-optimization-avec-angular',
         },
         {
